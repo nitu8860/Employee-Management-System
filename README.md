@@ -13,7 +13,7 @@
 
 ### Installation
 - Clone the repository:
-**git clone https://github.com/example/Employee-Management-System.git**
+**git clone https://github.com/nitu8860/Employee-Management-System.git**
 
 - Navigate to the project directory:
 **cd Employee-Management-System**
