@@ -50,6 +50,12 @@ Open a web browser and go to http://localhost:8080 to access the Employee Manage
 - To update a report, send a PUT request to /reports/{id} endpoint with the updated report details.
 - To delete a report, send a DELETE request to /reports/{id} endpoint.
 
+## Screenshots:
+![Swagger UI - Google Chrome 28-06-2023 11_14_02](https://github.com/nitu8860/Employee-Management-System/assets/112774001/4693759c-2aba-4ca2-be0c-1fa83953d10c)
+![Swagger UI - Google Chrome 28-06-2023 11_14_12](https://github.com/nitu8860/Employee-Management-System/assets/112774001/221bde3c-bab5-4fb8-a367-332f09b646fc)
+
+
+
 ## Summary
 The Employee Management System is a Java-based application that allows you to manage employee records, employee self-service information, and generate reports. It provides functionalities to view, create, update, and delete employee details and reports.
 
